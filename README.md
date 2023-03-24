@@ -24,33 +24,53 @@ IT 技术更新变化较快，每个分类，尽量采用一些较新的技术�
 - elementUI
 - taildcss
 
-## CMS（内容管理系统）
+### CMS（内容管理系统）
 
 - Strapi
 - Ghost
 
-## node server
+
+##Server
+
+### node server
 
 - nest 服务端server  primsma （ORM） 
 
 
-## api server 
+### api server 
 
 - graphql 
 - restapi
 
-## server 服务
+### server 服务
 
 - swagger api 文档 调试工具
 - 后台管理系统    element-admin    
 
-## php server 
+### php server 
 
 - symfony 
 - laravel  
 
 
-## no-sql server 
+<!-- 
+ 
+### pytho server 
+
+- fastapi 
+
+-->
+
+<!-- 
+ 
+### golang server 
+
+- Gin + gorm(ORM) 
+
+-->
+
+
+### no-sql server 
 
 
 - mongodb
