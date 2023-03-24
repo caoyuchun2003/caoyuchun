@@ -11,7 +11,7 @@
 
 - 服务端生成静态网站   gatsby 
  
-- 静态Web生成     hugo
+- 静态Web生成     hugo   >这个blog就是使用的hugo 搭建
 
 ### UI 相关
 - mintUI 
