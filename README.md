@@ -15,7 +15,7 @@ IT 技术更新变化较快，每个分类，尽量采用一些较新的技术�
 
 - 服务端生成静态网站   gatsby 
  
-- 静态Web生成     hugo   >这个blog就是使用的hugo 搭建
+- 静态Web生成     hugo  ***这个blog就是使用的hugo 搭建***
 
 ### UI 相关
 - mintUI 
