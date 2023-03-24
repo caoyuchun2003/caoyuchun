@@ -20,7 +20,7 @@
 - elementUI
 - taildcss
 
-## node serve
+## node server
 
 - nest 服务端server  primsma （ORM） 
 
