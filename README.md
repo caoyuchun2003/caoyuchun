@@ -1,4 +1,4 @@
-# blog
+# 全栈工程师 学习路径
 
 
 个人blog 学习路径，分享web ，server,客户端IOS技术
@@ -23,7 +23,7 @@
 ## CMS（内容管理系统）
 
 - Strapi
-- 
+- Ghost
 
 ## node server
 
