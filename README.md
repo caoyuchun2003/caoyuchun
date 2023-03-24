@@ -20,6 +20,11 @@
 - elementUI
 - taildcss
 
+## CMS（内容管理系统）
+
+- Strapi
+- 
+
 ## node server
 
 - nest 服务端server  primsma （ORM） 
@@ -28,6 +33,7 @@
 ## api server 
 
 - graphql 
+- restapi
 
 ## server 服务
 
